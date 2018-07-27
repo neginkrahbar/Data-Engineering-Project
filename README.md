@@ -4,7 +4,7 @@ The objective of this project was to write datasets of varying formats into a mo
 The Jupyter Notebook found in this project has descriptive comments and outputs visible to make it easy to follow. If you wish to run the code yourself, follow the following instructions.
 
 ## Downloading Project
-With git installed, this project can easily be downloaded locally by using 
+With git installed, this project can easily be downloaded locally by using
 `git clone https://github.com/neginkrahbar/Data-Engineering-Project.git`.
 
 Alternatively, the project can be downloaded as a zip file using the green `Clone or download` button above.
