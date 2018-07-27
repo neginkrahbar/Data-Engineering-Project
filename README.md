@@ -17,7 +17,8 @@ The following are required to run this code:
 * xlrd https://pypi.org/project/xlrd/
 * SQLite3
 
-A Jupyter Notebook was used because of the great interactive coding experience. This is not required, but is highly recommnded. An easy way to get all the required software is by using the conda environment manager. Installing [miniconda](https://conda.io/miniconda.html) will get the basics set up, and any additional required packages can be added using the command `conda install package_name`.
+A Jupyter Notebook was used because of the great interactive coding experience. This is not required, but is highly recommnded. An easy way to get all the required software is by using the conda environment manager. Installing [miniconda](https://conda.io/miniconda.html) will get the basics set up, and any additional required packages can be added using the command 
+`conda install package_name`.
 
 With Jupyter installed, a Jupyter server must be launched by running the command `jupyter notebook`. This should open a page in the default browser where one can navigate through directories and open the project notebook. Each code block can be quickly and easily run by selecting the block and pressing `return`+`shift`.
 
